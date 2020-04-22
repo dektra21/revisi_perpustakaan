@@ -25,8 +25,8 @@
                                   
                                   <td>
                                     <a href="" type="submit" name="" class="btn btn-primary"><i class="fas fa-edit"></i> &nbsp; Edit </a>
-                                    <a href="" type="submit" name="delete" class="btn btn-info"> <i class="fas fa-trash-alt"></i> &nbsp;Kembali</a>
-                                    <a href="" type="submit" name="delete" class="btn btn-success"> <i class="fas fa-eye"></i> &nbsp;Detail</a>
+                                    <a href="" type="submit" name="delete" class="btn btn-success"> <i class="fas fa-check"></i> &nbsp;Kembali</a>
+                                    <a href="" class="btn btn-secondary "><i class="fas fa-list"></i> &nbsp;Detail</a>
                                   </td>
                                 </tr>     
                               </table>
